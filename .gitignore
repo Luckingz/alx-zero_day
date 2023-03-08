@@ -1,1 +1,1 @@
-echo "*~" | tee 0x03-git/gitignore > /dev/null
+~
